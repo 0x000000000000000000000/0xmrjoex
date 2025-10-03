@@ -25,9 +25,7 @@
 
 # Contact With Me
 
-- **guns: https://guns.lol/0xmrjoex**
-
-- **Masonhub: https://masonhub.info/user/0xmrjoex**
+- **About Me: https://masonhub.info/user/0xmrjoex**
 
 ---
 
