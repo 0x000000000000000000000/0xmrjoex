@@ -38,7 +38,7 @@
 ![Snake animation](0xmrjoex.svg)
 ---
 <p align="left">
-  <img height=97 src="https://github-profile-trophy.vercel.app/?username=0x000000000000000000000/xtheme=radical&no-frame=truetitle=Stars,Followers,Commitscolumn=-1" alt="Trophy"/>
+  <img height=97 src="https://github-profile-trophy.vercel.app/?username=0x000000000000000000000/theme=radicalno-frame=truetitle=Stars,Followers,Commitscolumn=-1" alt="Trophy"/>
   <img height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=0x000000000000000000000/theme=radical" alt="Streak Stats"/>
   <a href="#">
 </p>
